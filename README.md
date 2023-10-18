@@ -1,4 +1,4 @@
-# Project Name
+# Store
 
 Short description or introduction of your project.
 
